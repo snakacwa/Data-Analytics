@@ -47,6 +47,6 @@ Time-series line chart showing signal trends over time
 KPI cards for quick summary of brainwave activity  
 Clean, research-style UI with structured visual hierarchy  
 
-NB; Learning more everyday...
+I am continuously improving my data analysis and visualization skills through real-world projects.
 
 
